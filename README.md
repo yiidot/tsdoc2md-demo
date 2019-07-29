@@ -1,6 +1,6 @@
 # A demo for tsdoc2md
 ## Getting started
-```
+```bash
 # clone the project
 git clone https://github.com/yiidot/tsdoc2md-demo.git
 
