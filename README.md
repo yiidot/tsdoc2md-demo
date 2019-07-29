@@ -1,4 +1,4 @@
-# A demo for tsdoc2md
+# A demo for tsdoc2md and vuepress
 ## Getting started
 ```bash
 # clone the project
