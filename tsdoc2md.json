@@ -1,0 +1,6 @@
+{
+  "entry": {
+    "README": "/lib/index.d.ts"
+  },
+  "outDir": "/docs/"
+}

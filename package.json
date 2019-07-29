@@ -1,0 +1,19 @@
+{
+  "name": "tsdoc2md-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "tsdoc2md & vuepress dev docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  },
+  "dependencies": {
+    "tsdoc2md": "0.0.18",
+    "typescript": "^3.5.3"
+  }
+}
